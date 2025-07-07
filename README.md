@@ -1,2 +1,1 @@
-# ide_profiles
-VS Code profile personal preferance
+# tools configs
